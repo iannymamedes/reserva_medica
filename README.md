@@ -1,8 +1,8 @@
 # reserva_medica
-Projeto Java com Spring Boot com serviço de reservas medicas especialistas. 
+Projeto Java com Spring Boot para um serviço de reservas medicas.<br> 
 
-Disciplina: Tecnologia para BackEnd II
-Professor: André Luiz
+Disciplina: Tecnologia para BackEnd II<br>
+Professor: André Luiz<br>
 Aluna: Ianny R. Mamedes da Silva
 
 
